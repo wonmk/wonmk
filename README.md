@@ -1,10 +1,8 @@
 # Hi there 👋
 
-My Name is **Andrew**.
+My Name is [Andrew](https://www.linkedin.com/in/andrew-tansil).
 
-I'm a **Cohort** at Bangkit Academy.
-
-I play [games](https://github.com/wonmk/wonmk) on my free time.
+IT Enthusiast.
 
 Nice to meet you.
 
